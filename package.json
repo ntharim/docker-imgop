@@ -1,0 +1,10 @@
+{
+  "name": "docker-imgop",
+  "version": "1.0.0",
+  "description": "`imgop` Docker image",
+  "private": true,
+  "dependencies": {
+    "imgop": "^0.2.0",
+    "pm2": "^0.12.8"
+  }
+}
