@@ -4,7 +4,7 @@
   "description": "`imgop` Docker image",
   "private": true,
   "dependencies": {
-    "imgop": "^0.2.0",
+    "imgop": "^0.2.1",
     "pm2": "^0.12.8"
   }
 }
